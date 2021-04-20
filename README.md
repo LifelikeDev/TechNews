@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,3 +75,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 A digital cart web app for online shopping needs. This app is built with React using hooks
 >>>>>>> 6c876fde6012b4ac643a55da76d5dcbc841acbb2
+=======
+# TechNews
+
+A technology-centered news app built with Reactjs using hooks and context API.
+
+The app makes use of the HackerNews API to generate news content. The app also has the functionality to switch pages.
+
+Find the live app [here](https://techy-news.netlify.app)
+>>>>>>> fa261132f0e112f3edfa4a9bf817aac8cc630d98
